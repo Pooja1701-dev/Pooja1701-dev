@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi there, I'm Meda Naga Poojitha!  
+**Aspiring Web Developer | B.Tech Student | UPSC Dreamer**
 
-<!--
-**Pooja1701-dev/Pooja1701-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me:
+- Currently learning **Full Stack Development**
+- Passionate about both **technology** and **civil services**
+- Consistent, curious, and always open to learning something new
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack:
+- HTML  
+- CSS  
+- Python  
+- MS Excel  
+- MS Word  
+
+---
+
+### Goals:
+- Become a **Web Developer**
+- Crack the **UPSC Civil Services Exam**
+
+---
+
+### Let's Connect:
+- **Email**: [nagapoojitha51@gmail.com](mailto:nagapoojitha51@gmail.com)
+
+---
+
+*“Dreams blend with code – that’s how I roll!”*
